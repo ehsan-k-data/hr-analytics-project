@@ -29,11 +29,11 @@ Python (Pandas, NumPy), Scikit-learn, Matplotlib, Seaborn, NLP (TextBlob, NLTK)
 
 
 
+## 📘 Detailed Analysis (Full Report Below)
 
 
 
 
-# Service-First-Employee-Satisfaction-
 Employee Satisfaction Analytics — Machine Learning & NLP Case Study
 A Two-Part Analytical Project Using CRISP-DM, Regression Models, Clustering, Decision Trees & NLP
 
