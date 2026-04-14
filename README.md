@@ -281,3 +281,8 @@ Younger employees are more satisfied
 Some high-income employees show low satisfaction → high value risk group
 
 NLP reveals internal friction around management, pay & workload
+
+
+
+## 📄 Additional Documentation
+- Scenario description (academic brief): see /docs folder
