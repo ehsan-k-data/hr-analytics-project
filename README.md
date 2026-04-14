@@ -1,3 +1,38 @@
+# HR Analytics Project – Employee Satisfaction
+
+## 📌 Business Problem
+ServiceFirst is facing high employee turnover and rising recruitment costs.  
+This project analyses employee data to identify key drivers of satisfaction and predict retention risk.
+
+## 🧰 Tools Used
+Python (Pandas, NumPy), Scikit-learn, Matplotlib, Seaborn, NLP (TextBlob, NLTK)
+
+## 🔍 What I Did
+- Performed Exploratory Data Analysis (EDA)
+- Built regression models to predict satisfaction
+- Applied K-Means clustering to segment employees
+- Developed a Decision Tree classifier
+- Conducted sentiment analysis on employee reviews
+
+## 📊 Key Results
+- Autonomy, training, and work pressure are strongest drivers of satisfaction  
+- Salary is NOT a strong predictor (confirmed across models)  
+- Identified high-risk employee segments using clustering  
+- Achieved ~97% accuracy with pruned Decision Tree model  
+
+## 💡 Business Impact
+- Helps HR identify employees at risk of leaving  
+- Supports better decision-making on retention strategies  
+- Highlights key areas to improve workplace satisfaction  
+
+---
+
+
+
+
+
+
+
 # Service-First-Employee-Satisfaction-
 Employee Satisfaction Analytics — Machine Learning & NLP Case Study
 A Two-Part Analytical Project Using CRISP-DM, Regression Models, Clustering, Decision Trees & NLP
